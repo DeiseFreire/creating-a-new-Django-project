@@ -1,6 +1,6 @@
-# Breve vídeo do projeto
+# Short project video
 
-`[Please watch the project video!](https://youtu.be/J3D6wEtiBdU)`
+[Please watch the project video!] (https://youtu.be/J3D6wEtiBdU)
 
 # Python on Replit
 
