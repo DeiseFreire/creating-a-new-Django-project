@@ -1,7 +1,3 @@
-# Short project video
-
-[Please watch the project video!] (https://youtu.be/J3D6wEtiBdU)
-
 # Python on Replit
 
 This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
