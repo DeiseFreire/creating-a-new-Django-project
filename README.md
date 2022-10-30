@@ -1,6 +1,6 @@
 # Adding project video
 
-[Please see the project video](https://youtu.be/Vc6CAJ1a08k).
+[Please see the project video]().
 
 # Python on Replit
 
