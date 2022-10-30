@@ -1,3 +1,7 @@
+# Adding project video
+
+[Please see the project video](https://youtu.be/Vc6CAJ1a08k).
+
 # Python on Replit
 
 This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
